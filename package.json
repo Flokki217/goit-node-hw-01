@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^3.3.6"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "goit-node-hw-01"
+  },
+  "author": "Artem Zavarzin",
+  "license": "ISC",
+  "description": ""
+}
